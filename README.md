@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yukta Chakravarty
 - 👀 I’m interested in DevOps, Data Science, Cloud Computing , Big Data
-- 🌱 I’m currently learning about the same
+- 🌱 I’m currently learning about SalesForce
 
 
 
